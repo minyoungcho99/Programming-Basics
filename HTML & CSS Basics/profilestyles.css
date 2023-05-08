@@ -1,0 +1,70 @@
+
+
+body {
+    background-color: #f7e3c1;
+    font-family: Garamond;
+  }
+
+#menu {
+    padding: 5px 10px; 
+    display: flex;
+    align-items: center;
+}
+
+.menu-bar {
+    font-size: 13px;
+    color: black;
+    margin: 0px 10px;
+    text-decoration: none;
+}
+
+.menu-bar:hover {
+    text-decoration: underline;
+}
+
+#back-link {
+    margin-left: auto;
+}
+
+#profile-pic {
+    height: 32px;
+    width: 32px;
+    border-radius: 16px;
+}
+
+#profile-pic:hover {
+    box-shadow: 0px 0px 5px #c2c2c2;
+}
+
+#mainprofile-pic {
+    height: 100px;
+    width: 100px;
+}
+
+#insta-logo {
+    height: 35px;
+    width: 35px;
+}
+
+#fb-logo {
+    height: 35px;
+    width: 35px;
+}
+
+#insta-logo:hover {
+    box-shadow: 0px 0px 5px #c2c2c2;
+}
+
+#fb-logo:hover {
+    box-shadow: 0px 0px 5px #c2c2c2;
+}
+
+#sour {
+    height: 100px;
+    width: 100px;
+}
+
+#strangert {
+    height: 100px;
+    width: 100px;
+}
