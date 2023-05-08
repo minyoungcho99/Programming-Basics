@@ -1,5 +1,5 @@
 # Programming-Basics
 
-## Programming Languages
+### Programming Languages
 * Python
 * SQL
